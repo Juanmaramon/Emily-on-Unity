@@ -1,0 +1,4 @@
+Assets/Emily/Emily_2_1_OBJ/Emily_2_1.obj filter=lfs diff=lfs merge=lfs -text
+Assets/Emily/textures/final/Face/00_diffuse_unlit_raw.exr filter=lfs diff=lfs merge=lfs -text
+Assets/Emily/textures/final/Face/00_specular_unlit_raw filter=lfs diff=lfs merge=lfs -text
+1.exr filter=lfs diff=lfs merge=lfs -text
